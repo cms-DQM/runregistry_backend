@@ -1,5 +1,7 @@
 # Run Registry Backend
 
+This repository has been archived in favor of [runregistry](https://github.com/cms-DQM/runregistry/).
+
 This repository contains the API and all the microservices that compose the back end of Run Registry.
 
 ## Getting Started
